@@ -5,7 +5,7 @@ Media Player
 
 Media Player is an addon for Garry's Mod which features several media streaming services able to be played synchronously in multiplayer.
 
-### Installation ###
+### Installation (experiments) ###
 
 Place the contents of this GitHub repository into a new addon folder within your `garrysmod/addons/` directory. For those unfamiliar with Git, press the `Download ZIP` button in the right-hand sidebar.
 
